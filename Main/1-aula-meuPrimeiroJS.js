@@ -16,6 +16,13 @@ var Variavel = "Maiuscula"
 console.log("variavel =" + variavel)
 console.log("Variavel =" + Variavel)
 
+var nome = "Guilherme"
+var sobrenome = "Campos"
+var nomeCompleto = nome + " "+ sobrenome
+console.log(nomeCompleto)
+
+
+
 
 
 
